@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Beatriz
+- 🌱 I’m currently learning HTML, CSS, JS
+- 📫 How to reach me? Facebook: Beatriz Zani
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I worked 4 years in the pharmaceutical industry, now I'm looking forward to starting a new carrer, knowing absolutely nothing about the Technology area. 
